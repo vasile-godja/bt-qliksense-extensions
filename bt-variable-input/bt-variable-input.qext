@@ -1,0 +1,8 @@
+{
+  "name": "BT Variable Input",
+  "description": "Pro variable input: 6 control types, expression-driven values, groups, theming, dark mode, accessible",
+  "type": "visualization",
+  "version": "1.0.0",
+  "icon": "list",
+  "author": "Godja Vasile"
+}

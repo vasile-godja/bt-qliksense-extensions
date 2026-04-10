@@ -1,0 +1,8 @@
+{
+  "name": "BT Variable Toggle Extended",
+  "description": "Pro variable toggle: 3 styles, multi-value, expressions, cascading, confirm dialog, dark mode, responsive, accessible",
+  "type": "visualization",
+  "version": "2.0.0",
+  "icon": "tick",
+  "author": "Godja Vasile"
+}
