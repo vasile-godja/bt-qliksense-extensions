@@ -1,0 +1,8 @@
+{
+  "name": "BT Reload Button Extended",
+  "description": "Pro reload button with 5 styles, multi-variable setup, progress modal, cooldown, confirm dialog, dark mode, accessibility",
+  "type": "visualization",
+  "version": "1.0.0",
+  "icon": "reload",
+  "author": "Godja Vasile"
+}
