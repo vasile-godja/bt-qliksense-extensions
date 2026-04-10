@@ -10,6 +10,7 @@ Custom Qlik Sense extensions — fully customizable, single-file, zero dependenc
 |-----------|-------------|----------|
 | [**BT Variable Toggle Extended**](bt-variable-toggle-extended/) | Advanced variable toggle with checkbox/switch/button styles, multi-value cycling, cascading, expressions, dark mode | [.zip](bt-variable-toggle-extended/bt-variable-toggle-extended.zip) |
 | [**BT Variable Input**](bt-variable-input/) | Pro variable input with 6 control types: text, number, slider, dropdown, button group, date picker | [.zip](bt-variable-input/bt-variable-input.zip) |
+| [**BT Reload Button Extended**](bt-reload-button-extended/) | Pro reload button with 5 styles, multi-variable setup, progress modal, cooldown, confirm dialog, download log | [.zip](bt-reload-button-extended/bt-reload-button-extended.zip) |
 
 ## Install
 
