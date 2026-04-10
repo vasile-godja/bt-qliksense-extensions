@@ -16,7 +16,7 @@ Custom Qlik Sense extensions — fully customizable, single-file, zero dependenc
 
 **Qlik Cloud:** Management Console > Extensions > Add > upload the `.zip` file
 
-**Qlik Sense Enterprise:** Copy the `.js` and `.qext` files to:
+**Qlik Sense Enterprise:** Import through the Dev Hub (requires admin access), or copy the `.js` and `.qext` files to:
 ```
 C:\Users\{user}\Documents\Qlik\Sense\Extensions\{extension-name}\
 ```
@@ -25,7 +25,7 @@ No build step. No npm. No external dependencies. Works offline and in air-gapped
 
 ## Compatibility
 
-- Qlik Sense Enterprise February 2024+
+- Qlik Sense Enterprise (tested on 2024, may work on other versions)
 - Qlik Cloud
 - Air-gapped / offline environments
 - Single file per extension, zero external dependencies
